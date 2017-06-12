@@ -1,0 +1,77 @@
+.home{
+  background-color: black;
+}
+#home2{
+  background-image: url(photos/js_wallpaper.jpg);
+  background-repeat: no-repeat;
+}
+.picha img{
+  width: 300px;
+  height: 400px;
+}
+.picha{
+  font-family: fantasy;
+  color: white;
+  font-size: 5px;
+}
+.about img{
+  width: 300px;
+  height: 400px;
+}
+.about{
+  font-size: 15px;
+  font-family: fantasy;
+}
+
+/*set font and size of font in nav*/
+.nav-pills {
+font-size: 30px;
+background-color: black;
+opacity:.7;
+
+margin-bottom: 10%;
+}
+h1 {
+padding: 0;
+margin-top: 0px;
+font-size: 10em;
+}
+h5{
+  text-align: right;
+}
+.pageOne{
+background-image: url("../images/emile-perron-190221.jpg");
+background-size: cover;
+height: 200px;
+
+}
+.block{
+background-color: black;
+opacity:.7;
+width: 50%;
+height: 10%;
+margin-left: auto;
+margin-right: auto;
+border-radius: 2px;
+color:black;/*add color to text*/
+}
+footer{
+padding-bottom: 10%;
+background-color: grey;
+height: 10%;
+}
+#contact{
+  background-image: url(photos/toto.jpg);
+}
+ul{
+  color: black;
+}
+.moringa{
+  color: black;
+}
+.hobby{
+  color: black;
+}
+#mail{
+  color: white;
+}
