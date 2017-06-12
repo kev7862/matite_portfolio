@@ -75,3 +75,7 @@ ul{
 #mail{
   color: white;
 }
+.hobby{
+  background-image: url(photos/hobby.jpg);
+  color: black;
+}
