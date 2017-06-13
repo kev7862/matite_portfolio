@@ -56,9 +56,9 @@ border-radius: 2px;
 color:black;/*add color to text*/
 }
 footer{
-padding-bottom: 10%;
+padding-bottom: 5%;
 background-color: grey;
-height: 10%;
+height: 5%;
 }
 #contact{
   background-image: url(photos/toto.jpg);
